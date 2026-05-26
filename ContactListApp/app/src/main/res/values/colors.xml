@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="bg_page">#F4F4F8</color>
+    <color name="bg_card">#FFFFFF</color>
+    <color name="bg_search">#F0F0F5</color>
+
+    <color name="text_primary">#1A1A2E</color>
+    <color name="text_secondary">#6B6B80</color>
+
+    <color name="divider">#EFEFEF</color>
+    <color name="white">#FFFFFF</color>
+</resources>
